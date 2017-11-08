@@ -1,0 +1,69 @@
+#top-wrapper{
+	width: 1263px;height: 105px;
+}
+.top{
+	width: 1080px;height: 100%;
+	margin: 0 auto;
+}
+.top .top-l{
+	width: 250px;height: 60px;
+	float: left;
+}
+.top .top-l a{
+	display: block;margin-top: 45px;
+	width: 250px;height: 60px;
+	background: url(../images/main_logo1.png) no-repeat;
+}
+.top .top-r{
+	width: 390px;height: 40px;
+	float: right;
+}
+.top .top-r a{
+	display: block;margin-top: 55px;
+	width: 390px;height: 40px;
+	background: url(../images/main_logo2.png) no-repeat;
+}
+#main-wrapper{
+	width: 1263px;height: 719px;
+}
+.main{
+	width:1080px;height:719px;
+	margin: 0 auto;
+}
+.main .main-l{
+	width: 500px;height:354px;
+	float: left;margin-top:110px ;
+}
+.main .main-l a{
+	width: 500px;height:354px;display: block;
+	background: url(../images/ewm.png) no-repeat;
+}
+.main .main-r{
+	width: 330px;height: 426px;
+	float: right;border:1px solid #ececec;border-top: 2px solid #ff4965;
+	margin-top: 110px;padding-left: 35px;padding-right: 35px;padding-top: 70px;
+}
+.main .main-r div{
+	margin-bottom: 30px;
+}
+.main .main-r strong{
+	font-weight: 900;font-size: 14px;float: left;
+}
+.main .main-r span{
+	float: right;
+}
+.main .main-r span a{
+	color: #ff4965;
+}
+.main .main-r .phone{
+	width: 330px;height: 30px;border:1px solid #e6e6e6;position: relative;
+}
+.main .main-r .phone span{
+	left: 8px;
+    top: 8px;
+    border-right: 1px solid #e6e6e6;
+    padding-right: 7px;
+}
+.main .main-r .phone input{
+	width: 278px;height:30px;border:0;line-height: 30px;padding: 0 10px;
+}

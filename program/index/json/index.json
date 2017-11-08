@@ -1,0 +1,17 @@
+{
+	"status": 1,
+	"msg": "success",
+	"data": [
+		{
+			"id": 101,
+			"img" :"../images/banner1.jpg"
+		},
+		{
+			"id": 102,
+			"img" :"../images/banner1.jpg"
+		}
+	]
+	
+	
+	
+}
